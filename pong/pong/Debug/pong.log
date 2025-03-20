@@ -1,0 +1,32 @@
+﻿  main.cpp
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(52,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(55,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(70,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(119,13): warning C4101: 'hbm': unreferenced local variable
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(148,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(148,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(148,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(148,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(149,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(149,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(149,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(149,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(159,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(159,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(159,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(159,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(167,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(168,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(198,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(200,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(220,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(243,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(257,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(257,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(258,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(261,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(262,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(263,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(263,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\artem\OneDrive\Изображения\pong\pong\main.cpp(269,35): warning C4305: '-=': truncation from 'double' to 'float'
+  pong.vcxproj -> C:\Users\artem\OneDrive\Изображения\pong\Debug\pong.exe
